@@ -1,5 +1,5 @@
 package bar
 
 func Bar() string {
-	return "Bar"
+	return "Updated Bar"
 }
